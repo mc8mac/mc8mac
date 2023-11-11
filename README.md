@@ -20,7 +20,7 @@ I'm currently taking the **Telecommunications and Computer Engineering** course 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mc8mac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mc8mac&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Socials
 [<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:marcosmachadomcm@gmail.com)
