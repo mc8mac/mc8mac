@@ -26,4 +26,4 @@ I'm currently taking the **Telecommunications and Computer Engineering** course 
 [<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:marcosmachadomcm@gmail.com)
 [<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/marcos-machado-376b1a290/)
 [<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>](https://github.com/mc8mac)
-[<img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img>](discordapp.com/users/1007788936011194431)
+[<img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img>](https://discordapp.com/users/1007788936011194431)
