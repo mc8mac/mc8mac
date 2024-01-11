@@ -1,7 +1,7 @@
 ### Hey👋, I'm [Marcos](https://github.com/mc8mac)
 I'm currently taking the **Telecommunications and Computer Engineering** course at the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/).
 
-- 🔭 I’m currently working on my [personal website](https://github.com/mc8mac/mcm-website).
+- 🔭 I’m currently working on my engineering course.
 - 🌱 I’m currently learning operating systems and eletrical circuits.
 - 💬 Ask me about Python, C, Java, HTML, Assembly, Chess, GDScript, Game Development.
 - ⚡ Fun fact: I was born on the same island as Cristiano Ronaldo.
