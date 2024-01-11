@@ -3,7 +3,7 @@ I'm currently taking the **Telecommunications and Computer Engineering** course 
 
 - 🔭 I’m currently working on my [personal website](https://github.com/mc8mac/mcm-website).
 - 🌱 I’m currently learning operating systems and eletrical circuits.
-- 💬 Ask me about Python, C, Java, HTML, Assembly, Chess.
+- 💬 Ask me about Python, C, Java, HTML, Assembly, Chess, GDScript, Game Development.
 - ⚡ Fun fact: I was born on the same island as Cristiano Ronaldo.
 
 ### Languages & Software
