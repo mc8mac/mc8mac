@@ -3,8 +3,7 @@ I'm currently taking the **Telecommunications and Computer Engineering** course 
 
 - 🔭 I’m currently working on my engineering course.
 - 🌱 I’m currently learning operating systems and eletrical circuits.
-- 💬 Ask me about Python, C, Java, HTML, Assembly, Chess, GDScript, Game Development.
-- ⚡ Fun fact: I was born on the same island as Cristiano Ronaldo.
+- ⚡ Fun fact: I'm from Madeira Island, Portugal
 
 ### Languages & Software
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
