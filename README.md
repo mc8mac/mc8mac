@@ -2,7 +2,7 @@
 I'm currently taking the **Telecommunications and Computer Engineering** course at the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/).
 
 - 🔭 I’m currently working on my engineering course.
-- 🌱 I’m currently learning about operating systems and artificial intelligence.
+- 🌱 I’m learning about operating systems and artificial intelligence.
 - ⚡ Fun fact: I'm from Madeira Island, Portugal
 
 ### Languages & Software
